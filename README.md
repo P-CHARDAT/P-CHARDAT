@@ -8,7 +8,7 @@ You can find me here : <a href="https://www.linkedin.com/in/pierre-chardat" rel=
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" alt="LinkedIn" style="max-width: 100%;" align="center">
 </a>
 
-And you can check my resume here : <a href="https://www.canva.com/design/DAE6bqtujiU/GDFfegwC-Xb6HR8SEiY5xw/view?utm_content=DAE6bqtujiU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" rel="nofollow" align="center"> 📂 </a>
+And can check my resume here : <a href="https://www.canva.com/design/DAE6bqtujiU/GDFfegwC-Xb6HR8SEiY5xw/view?utm_content=DAE6bqtujiU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" rel="nofollow" align="center"> 📂 </a>
 
 ## 🛠️ Technologies and tools
 
