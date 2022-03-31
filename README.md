@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-CHARDAT&count_private=true&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-CHARDAT&count_private=true&hide=stars,issues,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
