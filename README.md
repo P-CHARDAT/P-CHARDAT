@@ -1,7 +1,7 @@
 # Hi there 👋
 ## I'm Pierre a web developer fullstack
 ## I'm currently searching a company to support me in my studies
-
+<span style="color:blue">some *blue* text</span>.
 ### About me :
 - 🔭 I’m currently searching a work to complete my sandwich course
 - 🌱 I’m currently learning at "ETNA, école d'alternance en informatique"
