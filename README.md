@@ -9,6 +9,11 @@
 - :hear_no_evil: Hobbies include, Sci-fi and fantasy books, PC games, RPG pen&paper, Eating
 
 
+<img
+  align="center"
+  src="https://github-readme-stats.vercel.app/api?username=P-CHARDAT&count_private=true&hide=stars,issues,contribs&show_icons=true&theme=gotham&custom_title=My_Stats"
+/>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-CHARDAT&count_private=true&hide=stars,issues,contribs&show_icons=true&theme=gotham&custom_title=My_Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
