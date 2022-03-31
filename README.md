@@ -10,7 +10,7 @@ You can find me here : <a href="https://www.linkedin.com/in/pierre-chardat" rel=
 
 ### 🛠️ Technologies and tools
 
-<img src="https://img.shields.io/badge/code-JavaScript-99d1ce">
+<img src="https://img.shields.io/badge/Code-JavaScript-informational?color=99d1ce$logo=javascript&logoColor=white">
 
 ### 🏚️ About me :
 
