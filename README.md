@@ -8,6 +8,10 @@ You can find me here : <a href="https://www.linkedin.com/in/pierre-chardat" rel=
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" alt="LinkedIn" style="max-width: 100%;">
 </a>
 
+### 🧰 Technologies and tools
+
+
+
 ### About me :
 
 - 🔭 I’m currently searching a company to complete my sandwich course
