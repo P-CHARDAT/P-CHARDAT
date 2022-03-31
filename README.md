@@ -8,11 +8,11 @@ You can find me here : <a href="https://www.linkedin.com/in/pierre-chardat" rel=
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" alt="LinkedIn" style="max-width: 100%;">
 </a>
 
-### 🧰 Technologies and tools
+### 🛠️ Technologies and tools
 
+<img src="https://img.shields.io/badge/code-JavaScript-99d1ce">
 
-
-### About me :
+### 🏚️ About me :
 
 - 🔭 I’m currently searching a company to complete my sandwich course
 - 🌱 I’m currently learning at "ETNA, école d'alternance en informatique"
