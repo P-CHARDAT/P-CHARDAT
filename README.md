@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-CHARDAT)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **P-CHARDAT/P-CHARDAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
