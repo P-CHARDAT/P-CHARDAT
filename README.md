@@ -1,4 +1,4 @@
-# Hello, there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
+# Hello, there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 ## I'm Pierre a web developer fullstack
