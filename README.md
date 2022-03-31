@@ -3,7 +3,7 @@
 
 ## I'm Pierre a web developer fullstack
 I'm currently searching a company to support me in my studies
-You can find me here : <a href="www.linkedin.com/in/pierre-chardat" rel="nofollow">
+You can find me here : <a href="https://www.linkedin.com/in/pierre-chardat" rel="nofollow">
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" alt="LinkedIn" style="max-width: 100%;">
 </a>
 
