@@ -1,5 +1,6 @@
-<img src="" alt="forest">
-
+<a href="https://www.linkedin.com/in/pierre-chardat" rel="nofollow">
+<img src="./forest-night.gif" alt="forest" width="100%">
+</a>
 
 # Hello, there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
