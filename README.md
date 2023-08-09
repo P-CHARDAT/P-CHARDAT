@@ -6,13 +6,13 @@
 
 
 ### 📸 I'm Pierre a web developer fullstack 
-I'm currently searching a company to support me in my studies.
+I'm currently working for WAPSI !
 
 You can find me here : <a href="https://www.linkedin.com/in/pierre-chardat" rel="nofollow">
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" alt="LinkedIn" style="max-width: 100%;" align="center">
 </a>
 
-And can check my resume here : <a href="https://www.canva.com/design/DAE6bqtujiU/GDFfegwC-Xb6HR8SEiY5xw/view?utm_content=DAE6bqtujiU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" rel="nofollow" align="center"> 📂 </a>
+And check my resume here : <a href="https://www.canva.com/design/DAE6bqtujiU/GDFfegwC-Xb6HR8SEiY5xw/view?utm_content=DAE6bqtujiU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" rel="nofollow" align="center"> 📂 </a>
 
 ## 🛠️ Technologies and tools
 
@@ -26,9 +26,9 @@ And can check my resume here : <a href="https://www.canva.com/design/DAE6bqtujiU
 
 ## 🏚️ About me :
 
-- 🔭 I’m currently searching a company to complete my sandwich course
+- 🔭 I’m currently at WAPSI
 - 🌱 I’m currently learning at "ETNA, école d'alternance en informatique"
-- 📫 How to reach me: chardatp@gmail.com
+- 📫 How to reach me: pierre.chardat@neuf.fr
 - :hear_no_evil: Hobbies include, Sci-fi and fantasy books, PC games, RPG pen&paper, Eating
 
 ## 📈 Github stats
