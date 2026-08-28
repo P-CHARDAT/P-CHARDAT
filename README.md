@@ -28,7 +28,7 @@ And check my resume here : <a href="https://www.canva.com/design/DAE6bqtujiU/GDF
 
 - 🔭 I’m currently at WAPSI
 - 🌱 I’m currently learning at "ETNA, école d'alternance en informatique"
-- 📫 How to reach me: pierre.chardat@neuf.fr
+- 📫 How to reach me: chardatp@gmail.com
 - :hear_no_evil: Hobbies include, Sci-fi and fantasy books, PC games, RPG pen&paper, Eating
 
 ## 📈 Github stats
