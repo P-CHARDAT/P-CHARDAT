@@ -11,7 +11,7 @@ You can find me here : <a href="https://www.linkedin.com/in/pierre-chardat" rel=
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" alt="LinkedIn" style="max-width: 100%;" align="center">
 </a>
 
-And check my resume here : <a href="./resume.pdf" rel="nofollow" align="center"> 📂 </a>
+And check my resume here : <a href="./CV_Pierre_CHARDAT_2026.pdf" rel="nofollow" align="center"> 📂 </a>
 
 ## 🛠️ Technologies and tools
 
