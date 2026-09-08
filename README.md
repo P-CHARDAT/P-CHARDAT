@@ -33,7 +33,4 @@ And check my resume here : <a href="./CV_Pierre_CHARDAT_2026.pdf" rel="nofollow"
 - 🔭 I’m currently at WAPSI
 - 🎓 I hold a Master's degree, Software Architect / Application Developer, from ETNA (2023-2025)
 - 📫 How to reach me: chardatp@gmail.com
-- :hear_no_evil: Hobbies include, Sci-fi and fantasy books, PC games, RPG pen&paper, Eating
-
-## 📈 Github stats
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=P-CHARDAT&count_private=false&hide=stars,issues,contribs&show_icons=true&theme=gotham&custom_title=My_Stats&bg_color=DEG,0c1014,263340,435970&border_color=99d1ce" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-CHARDAT&langs_count=8&layout=compact&theme=gotham&bg_color=DEG,0c1014,263340,435970&border_color=99d1ce" />
+- :hear_no_evil: Hobbies include, Sci-fi and fantasy books, PC games, RPG pen&paper
